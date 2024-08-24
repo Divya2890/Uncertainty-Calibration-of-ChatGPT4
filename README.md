@@ -14,11 +14,20 @@ Our findings reveal that ChatGPT-4 successfully identified 58% of the incorrect 
 ## 📊 Visualizations
 Here are some visualizations from the study:
 
-![Visualization 1](path_to_visualization1.png)
-![Visualization 2](path_to_visualization2.png)
-![Visualization 3](path_to_visualization3.png)
+<div style="display: flex; justify-content: center;">
+  <!-- Smaller Image -->
+  <img src="Picture3.png" alt="Visualization 3" width="450"/>
+</div>
 
-🔗 **[Explore more detailed visualizations and read the full paper on Purdue Hammer](https://hammer.purdue.edu/articles/thesis/Your_Thesis_Title/)**
+
+
+<!-- Larger Images Side by Side -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="Picture1.png" alt="Visualization 1" width="400"/>
+  <img src="Picture2.png" alt="Visualization 2" width="400"/>
+</div>
+
+🔗 **[Explore more detailed visualizations, results and conclusion by reading the full paper on Purdue Hammer](https://hammer.purdue.edu/articles/thesis/Leveraging_Linguistic_Insights_for_Uncertainty_Calibration_of_ChatGPT_and_Evaluating_Crowdsourced_Annotations/26214551)**
 
 ## 📬 Get in Touch
 Feel free to reach out if you have any questions or feedback! You can contact me via:
